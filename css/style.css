@@ -89,6 +89,11 @@ body {
   align-items: center;
   gap: 0 40px;
 }
+@media (max-width: 479px) {
+  .music .controls {
+    gap: 0 30px;
+  }
+}
 .music .controls .play {
   position: relative;
 }
