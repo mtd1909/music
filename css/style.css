@@ -139,6 +139,12 @@ body {
   -webkit-appearance: none;
 }
 
+.intro {
+  margin-top: 30px;
+  text-align: center;
+  font-weight: 500;
+}
+
 @-webkit-keyframes spinner {
   to {
     transform: rotate(360deg);

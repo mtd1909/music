@@ -133,6 +133,12 @@ body {
   }
 }
 
+.intro {
+  margin-top: 30px;
+  text-align: center;
+  font-weight: 500;
+}
+
 @keyframes spinner {
   to {
     transform: rotate(360deg);
