@@ -16,9 +16,9 @@ let isRepeat = false
 const musics = [
   {
     id: 1,
-    title: 'Mặt mộc',
-    file: 'Mat-moc.mp3',
-    image: 'https://znews-photo.zingcdn.me/w660/Uploaded/wyhktpu/2022_08_17/2_2_.jpg'
+    title: 'Ta là của nhau',
+    file: 'ta-la-cua-nhau.mp3',
+    image: 'https://i.ytimg.com/vi/LG5hQJsO8k0/mqdefault.jpg'
   },
   {
     id: 2,
@@ -31,7 +31,13 @@ const musics = [
     title: 'Có chắc anh đã yêu',
     file: 'co-chac-anh-da-yeu.mp3',
     image: 'https://images.unsplash.com/photo-1590212151175-e58edd96185b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80'
-  }
+  },
+  {
+    id: 4,
+    title: 'Mặt mộc',
+    file: 'Mat-moc.mp3',
+    image: 'https://znews-photo.zingcdn.me/w660/Uploaded/wyhktpu/2022_08_17/2_2_.jpg'
+  },
 ]
 displayTimer()
 let timer 
